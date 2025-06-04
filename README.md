@@ -1,6 +1,6 @@
 # Terraform AWS HyperPod EC2 Module
 
-A Terraform project demonstrating how to deploy an AWS HyperPod clusters with EC2 instances for machine learning workloads.
+A Terraform project demonstrating how to deploy an AWS EKS cluster with Sagemaker HyperPod nodes and EC2 instances for machine learning workloads.
 
 ## Features
 
